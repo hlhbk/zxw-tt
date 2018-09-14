@@ -51,11 +51,11 @@ public class T7 extends JFrame{
 	
 		this.add(p2);
 		this.setTitle("¼ÆËãÆ÷");
-		this.setSize(100, 200);
+		this.setSize(250, 295);
 		this.setLocation(300, 400);
 		this.setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
 		this.setVisible(true);
-		this.setResizable(true);
+		this.setResizable(false);
 	}
 
 }
