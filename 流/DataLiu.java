@@ -21,7 +21,9 @@ public class DataLiu {
 		ss=DataIS.readLong();
 		System.out.println("s="+ss);
 	}
-
+//数据流输出的是二进制形式的
+//文件流输出的是人能看懂的数据形式
+	//#x十六进制
 	/**
 	 * @param args
 	 */
